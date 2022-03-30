@@ -1,4 +1,4 @@
-FROM node:8.16.2-jessie-slim
+FROM node:16-stretch-slim
 
 ENV LANG C.UTF-8
 
